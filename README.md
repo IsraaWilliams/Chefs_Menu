@@ -59,3 +59,43 @@ The app was built using React Native with Expo.
 ## How To Install And Run
 
 1. Clone the repo:
+https://github.com/IsraaWilliams/Chefs_Menu
+
+2. Install dependencies:
+npm install
+npx expo install
+
+3. Run the app:
+npx expo start
+Then scan QR code with Expo Go app on your phone.
+
+## App Screenshots
+
+- Header shows stats: total dishes, total value, avg price
+- Form to add/edit dishes with validation
+- Search bar + filter buttons
+- Menu list with edit/remove buttons
+- Confirmation dialogs
+
+## Links For Submission
+
+**GitHub Repository:** https://github.com/IsraaWilliams/Chefs_Menu
+
+**YouTube Video Demo (Unlisted):** https://youtu.be/YOUR-LINK-HERE
+
+Video shows:
+- adding menu items
+- editing menu items
+- deleting menu items
+- searching for menu items
+- filtering menu items
+- displaying menu statistics
+- overall functionality
+
+## Student Declaration
+
+I, Israa Williams ST10501763, declare that this is my own work for MAST5112 POE Final 2026. All code was written by me with reference to class notes and React Native documentation.
+
+## Contact
+
+ST10501763 - Israa Williams - IIE Rosebank International Cape Town Campus 
