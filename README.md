@@ -81,7 +81,7 @@ Then scan QR code with Expo Go app on your phone.
 
 **GitHub Repository:** https://github.com/IsraaWilliams/Chefs_Menu
 
-**YouTube Video Demo (Unlisted):** https://youtu.be/YOUR-LINK-HERE
+**YouTube Video Demo (Unlisted):** https://youtu.be/VtiqRcWFBWQ?si=RzKbfuva7UGVGak7 
 
 Video shows:
 - adding menu items
